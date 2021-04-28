@@ -1,11 +1,11 @@
 {
   "today": {
     "banner": "Banner[]",
-    "events": "Events[]",
+    "event": "Event[]",
     "history": "History[]",
-    "vitidbits": "VITidbits[]",
-    "promotions": "Promotions[]",
-    "Links": "Links[]",
+    "vitidbit": "VITidbit[]",
+    "promotion": "Promotion[]",
+    "Link": "Link[]",
     "Follow": "Follow[]",
     "createdAt": "date"
   },
@@ -13,7 +13,7 @@
     "body": "string",
     "url": "string"
   },
-  "Events": {
+  "Event": {
     "id_event": "int",
     "title": "string",
     "datetime": "date",
@@ -25,18 +25,18 @@
     "description": "string",
     "url_photo": "string"
   },
-  "VITidbits": {
+  "VITidbit": {
     "id_tidbit": "int",
     "description": "string",
     "url_photo": "string"
   },  
-  "Promotions": {
+  "Promotion": {
     "id_promo": "int",
     "title": "string",
     "description": "string",
     "url_photo": "string"
   }, 
-  "Links": {
+  "Link": {
     "title": "string",
     "url": "string"
   },  
