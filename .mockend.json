@@ -3,7 +3,7 @@
     "banner": "Banner[]",
     "event": "Event[]",
     "history": "History[]",
-    "vitidbit": "Vitidbit[]",
+    "tidbit": "Tidbit[]",
     "promotion": "Promotion[]",
     "Link": "Link[]",
     "Follow": "Follow[]",
@@ -25,7 +25,7 @@
     "description": "string",
     "url_photo": "string"
   },
-  "Vitidbit": {
+  "Tidbit": {
     "id_tidbit": "int",
     "description": "string",
     "url_photo": "string"
